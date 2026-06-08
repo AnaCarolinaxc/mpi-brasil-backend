@@ -1,7 +1,7 @@
 # MPI Brasil Backend
 
 Backend da plataforma MPI Brasil.
-
+Tecnologias usadas: Kotlin (IntelliJ IDEA - 2026.1.3) e PostgreSQL (18)
 
 ---
 
@@ -59,3 +59,26 @@ Backend da plataforma MPI Brasil.
 ---
 
 ## Instalação Linux
+
+### Kotlin
+
+1. **Instale o IntelliJ IDEA** (recomendadado, já inclui o compilador Kotlin):
+   - Abra o seu terminal e execute os comandos abaixo:
+   - sudo apt update
+   - sudo apt install snapd
+   - sudo snap install intellij-idea-ultimate --classic
+
+2. Ou acesse a página https://www.jetbrains.com/idea/download/?section=linux
+   - Clique em Download e escolha a versão .tar.gz (Linux)
+   - Extraia o arquivo
+   - Ao abrir a pasta descompactada, vá até o subdiretório bin e rode IntelliJ IDEA.sh
+
+---
+
+### PostgreSQL
+
+1. Abra o seu terminal e execute os comandos abaixo:
+   - sudo apt update
+   - sudo apt install -y postgresql-common
+   - sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+   
