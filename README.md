@@ -1,7 +1,7 @@
 # MPI Brasil Backend
 
 Backend da plataforma MPI Brasil.
-Tecnologias usadas: Kotlin (IntelliJ IDEA - 2026.1.3) e PostgreSQL (18)
+## Tecnologias usadas: Kotlin (IntelliJ IDEA - 2026.1.3) e PostgreSQL (18)
 
 ---
 
